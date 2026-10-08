@@ -5,7 +5,7 @@
 
 ## Deskripsi
 
-Project ini merupakan tugas PBO yang berisi konversi program dari **Java ke PHP**. Program yang sebelumnya dibuat menggunakan Java dibuat kembali menggunakan bahasa PHP dengan menerapkan konsep dasar Pemrograman Berorientasi Objek (OOP).
+Project ini merupakan tugas PBO yang berisi konversi program dari Java ke PHP. Program yang sebelumnya dibuat menggunakan Java dibuat kembali menggunakan bahasa PHP dengan menerapkan konsep dasar Pemrograman Berorientasi Objek.
 
 Konsep yang digunakan yaitu Class, Constructor, Inheritance, Polymorphism, Asosiasi dan Komposisi, serta Abstract Class dan Interface.
 
